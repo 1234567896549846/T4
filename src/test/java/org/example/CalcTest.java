@@ -11,7 +11,7 @@ public class CalcTest {
         assertEquals(4, c.add(2,2));
     }
  @Test
-    void testAddition() {
-      assertEquals(2, c.subtract(4,2))
+    void testAddition1() {
+      assertEquals(2, c.subtract(4,2));
     }
 }
